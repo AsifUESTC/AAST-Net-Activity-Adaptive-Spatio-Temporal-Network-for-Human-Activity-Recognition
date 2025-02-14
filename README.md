@@ -24,3 +24,4 @@ AAST-Net achieves state-of-the-art performance on multiple HAR datasets, showing
 🛠️ Acknowledgments
 We appreciate the contributions of our team and the open-source community. Special thanks to the authors of the benchmark datasets.
 
+Note: Code will be provided after publication
