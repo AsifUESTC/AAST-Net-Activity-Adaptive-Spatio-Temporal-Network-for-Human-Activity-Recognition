@@ -12,7 +12,7 @@ Multi-Scale Processing to handle variations in activity duration and complexity.
 📝 Dataset
 This model has been trained and tested on benchmark datasets such as HMDB51, UCF101 and UCF50. 
 Dataset links: 
-https://www.crcv.ucf.edu/data/UCF101.php
+https://www.crcv.ucf.edu/data/UCF101.php.
 https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/
 📊 Results
 AAST-Net achieves state-of-the-art performance on multiple HAR datasets, showing significant improvement in activity recognition accuracy.
