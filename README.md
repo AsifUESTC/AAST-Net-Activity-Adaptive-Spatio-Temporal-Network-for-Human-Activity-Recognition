@@ -1,5 +1,5 @@
 This repository contains the official implementation of our paper:
-"AAST-Net: Activity Adaptive Spatio-Temporal Network for Human Activity Recognition", submitted to the Journal of Computer Vision and Image Understanding (CVIU).
+"AAST-Net: Activity Adaptive Spatio-Temporal Network for Human Activity Recognition", submitted to the Journal of Engineering Applications of Artificial Intelligence.
 
 📌 Overview
 Human Activity Recognition (HAR) is a challenging task, especially when dealing with complex temporal dynamics. In this work, we propose AAST-Net, a novel deep learning architecture that adaptively captures both spatial and temporal dependencies in video sequences. Our approach integrates:
@@ -22,7 +22,7 @@ AAST-Net achieves state-of-the-art performance on multiple HAR datasets, showing
 🔗 Citation
   author = {Asif Iqbal, et al.},
   title = {AAST-Net: Activity Adaptive Spatio-Temporal Network for Human Activity Recognition},
-  journal = {Computer Vision and Image Understanding (CVIU)},
+  journal = {Journal of Engineering Applications of Artificial Intelligence},
   year = {2024}
 }
 🛠️ Acknowledgments
